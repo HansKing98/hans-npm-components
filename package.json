@@ -1,0 +1,12 @@
+{
+  "name": "hans-npm-components",
+  "version": "1.0.101",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
