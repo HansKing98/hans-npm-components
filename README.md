@@ -7,3 +7,4 @@
 
 `npm publish` 发布 npm 包，不报错即成功，访问 https://www.npmjs.com/ 就能看到了
  
+`npm run build` 构建产物-> dist/library.js
